@@ -10,8 +10,8 @@ import (
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/tools/clientcmd"
 
-	"github.com/mfojtik/k8s-trigger-controller/pkg/controller"
-	"github.com/mfojtik/k8s-trigger-controller/pkg/signals"
+	"github.com/repairtech/k8s-trigger-controller/pkg/controller"
+	"github.com/repairtech/k8s-trigger-controller/pkg/signals"
 )
 
 var (
